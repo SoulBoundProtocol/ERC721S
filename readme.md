@@ -2,7 +2,7 @@
 
 ## About The Project
 
-ERC721S, or ERC721 SoulBound, is an implementation for SoulBound Token (SBT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
+ERC721S, **S for SoulBound**, is an implementation for SoulBound Token (SBT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
 
 ## Features
 
