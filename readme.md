@@ -7,7 +7,7 @@ ERC721S, **S for SoulBound**, is an implementation for SoulBound (non-transferab
 ## Features
 
 - **Non-transferable**: SoulBound
-- **Community Recovery**: at extreme condition (lost private key), community multisig (contract owner) can transfer the token to the new wallet under the approvement of the token holder.
-- **Gas Saving**: reuse the code in ERC721A
+- **Community Recovery**: at extreme condition (losing private key), community multisig (contract owner) can transfer the token to the new wallet under the approvement of the token holder.
+- **Gas Saving**: learn from ERC721A
 - **Sybil Identification** :each address is associated with an `isSybil` variable for projects to identify Sybil/bot.
 - **Soul Power**: each address is associated with an `isSybil` variable, a score that measures the soul power associated with the addresss (e.g. the contribution score to the project).
