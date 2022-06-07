@@ -144,7 +144,7 @@ contract ERC721S is Context, Ownable, ERC165, IERC721S {
     /**
      * Sets Sybil state for `owner`.
      */
-    function _setSoulPower(address owner, bool isSybil) internal {
+    function _setSybil(address owner, bool isSybil) internal {
         _addressData[owner].isSybil = isSybil;
     }
 
