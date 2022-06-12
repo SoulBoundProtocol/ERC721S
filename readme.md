@@ -2,7 +2,7 @@
 
 ## About The Project
 
-ERC721S (**SoulBound**), is an implementation for SoulBound Token (non-transferable NFT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
+ERC721S (**SoulBound**), is a standard for SoulBound Token (non-transferable NFT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
 
 <!-- FEATURES -->
 
